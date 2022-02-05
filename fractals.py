@@ -6,7 +6,7 @@ from numba import jit
 import matplotlib.pyplot as plt
 import time
 
-DPI = 300
+DPI = 1200
 
 tolerance = 0.000001
 
